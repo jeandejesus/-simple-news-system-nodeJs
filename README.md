@@ -5,6 +5,8 @@ autoload das view,controllers,routes,imagens,css;
 
 Contem as seguintes rotas acessadas pela url : 
 
+execute o Portal_noticia_noticias.sql
+
 index : 
 http://localhost:3000/
 
